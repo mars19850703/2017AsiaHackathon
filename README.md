@@ -12,7 +12,7 @@ Weather on的核心服務項目包括：
 
 
 ## facebook 機器人
-加入 Chatbot [https://www.facebook.com/marstest/](https://www.facebook.com/marstest/)
+加入 Chatbot [https://www.facebook.com/marstest/](https://www.facebook.com/marstest/)，進去之後點選右上角「傳送訊息」
 
 ### 隊員
 * Layla (Leader)
